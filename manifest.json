@@ -1,0 +1,21 @@
+{
+  "name": "WhatsApp Mods | Wikoles.net",
+  "version": "1.0",
+  "description": "تحميل أحدث إصدار واتساب المطور مجاناً مع مراجعة تفصيلية لكل تطبيق.",
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "inshot-logo.png",
+      "32": "inshot-logo.png",
+      "48": "inshot-logo.png",
+      "128": "inshot-logo.png"
+    }
+  },
+  "icons": {
+    "16": "inshot-logo.png",
+    "32": "inshot-logo.png",
+    "48": "inshot-logo.png",
+    "128": "inshot-logo.png"
+  },
+  "manifest_version": 2
+}
